@@ -1,16 +1,19 @@
-### Hi there 👋
+###  👋 Olá! Me chamo Wesley, ou, se preferir, simplesmente Saxa.
 
-<!--
-**Saxa0777/Saxa0777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Twitter][def]](https://twitter.com/Saxa1018)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[def]: https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Saxa1018
+
+
+![Saxas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saxa0777&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxa0777&layout=compact)
+
+## 🖳 Linguagens que estou aprendendo:
+
+<div style='display: indilne_block'><br/>
+    <img align='center' alt='python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
+    <img align='center' alt='javscript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
+</div>
